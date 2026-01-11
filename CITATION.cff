@@ -8,8 +8,9 @@ authors:
   - family-names: "Menéndez Fernández-Miranda"
     given-names: "Pablo"
     orcid: "https://orcid.org/0000-0003-4742-8955"
-title: "shoulder-xray-cnn-hybrid"
+title: "Rapid, transparent detection of rotator cuff calcifications using 
+lightweight hybrid models"
 version: 1.0.0
-date-released: 2025-12-29
+date-released: 2026-01-11
 url: 
 "https://github.com/mirandabautistajuan-lang/shoulder-xray-cnn-hybrid"
